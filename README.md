@@ -114,3 +114,11 @@ Follow these steps for completing your project.
 ----
 
  ## Part II - [Advanced Styling Techniques](DAY_TWO_README.md)
+
+
+## recordings
+
+[emily seibert](https://youtu.be/_3_DnekCwz0)
+[dan frehner](https://youtu.be/KkFpSwrFgQo)
+[jason maurer](https://youtu.be/lAEDaw-nMx8)
+[dan levy](https://youtu.be/zXrby8KQSNI)
