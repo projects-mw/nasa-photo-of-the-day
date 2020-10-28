@@ -118,7 +118,17 @@ Follow these steps for completing your project.
 
 ## recordings
 
+day 1
+
 [emily seibert](https://youtu.be/_3_DnekCwz0)
 [dan frehner](https://youtu.be/KkFpSwrFgQo)
 [jason maurer](https://youtu.be/lAEDaw-nMx8)
 [dan levy](https://youtu.be/zXrby8KQSNI)
+
+day 2
+
+[emily seibert](https://youtu.be/9Jlqfiqu1f8)
+[dan levy](https://youtu.be/PIvietDeTLM)
+[jason maurer](https://youtu.be/4qIMv69J5TY)
+[dustin myers](https://youtu.be/WEE5EnqCj4U)
+[dan frehner](https://youtu.be/OxeTgXYmJYU)
